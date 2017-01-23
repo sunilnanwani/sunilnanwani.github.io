@@ -1,9 +1,9 @@
 body{
     background-image: url('../images/background.jpg');
     background-size: cover;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-attachment: fixed;
-    background-position: 120% 120%;
+    background-position: 20% 20%;
 }
 .container-fluid{
     margin: 0;
